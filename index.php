@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello Rien!</h1>
+    <h2>Define project structure</h2>
 </body>
 </html>
